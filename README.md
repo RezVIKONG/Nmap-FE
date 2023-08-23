@@ -1,4 +1,4 @@
-# Nmap-FE - Nmap Fan Edition 'One-Click' CLI Frontend
+# Nmap-FE | Nmap Fan Edition 'One-Click' CLI Frontend
 Based on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nmap Public Source License' at https://svn.nmap.org/nmap/LICENSE
 
 ---
