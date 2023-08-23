@@ -1,6 +1,11 @@
 # Nmap-FE
 Nmap Fan Edition 'One-Click' CLI Frontend
+Based on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nmap Public Source License' at https://svn.nmap.org/nmap/LICENSE
+
+---
+
 ## This script has been created to do a 'Smart One-Click' Scan of a typical Windows-Linux-MacOS Target in less than 45 Minutes.
+
 Features include:
 - Recursive Basic FW/IPS Evasion
 - Tuned Scan Timings
