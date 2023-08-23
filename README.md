@@ -3,9 +3,9 @@ Based on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nm
 
 ---
 
-**This Zsh script has been created to do a 'Smart One-Click' Scan of a typical Windows-Linux-MacOS Target in less than 45 Minutes, you only need to enter the Target IP/CIDR/FQDN and you are ready to go..**
+**This Zsh script has been created to do a 'Smart One-Click Scan' of a typical Windows-Linux-MacOS Target in less than 45 Minutes, you just need to enter the Target IP/CIDR/FQDN and you are ready to go..**
 
-Features include:
+Features included:
 - Recursive Basic FW/IPS Evasion
 - Tuned Scan Timings
 - Smart Top TCP and UDP Destination Ports
