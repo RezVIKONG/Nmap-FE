@@ -33,4 +33,4 @@ The author is not affiliated or sponsored by Nmap or its creators.
 ---
 
 # License GPL 3.0
-https://github.com/RezVIKONG/Nmap-FE/main/LICENSE
+https://github.com/RezVIKONG/Nmap-FE/blob/main/LICENSE
