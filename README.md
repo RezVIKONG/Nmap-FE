@@ -19,7 +19,6 @@ Features included:
 ---
 
 # Disclaimer
-
 This Zsh script is provided "as is", without any warranty of functionality, correctness or completeness.
 The author is not liable for any direct, indirect, incidental, special, exemplary or consequential damages (including, but not limited to, data loss, security breach, business interruption or other similar damages) arising from the use or inability to use this Zsh script, even if informed of the possibility of such damages.
 
@@ -30,3 +29,8 @@ The user is required to use this Zsh script only for lawful and ethical purposes
 This Zsh script interfaces with Nmap, a network analysis software.
 The user is also required to respect the NPSL license of Nmap and its conditions.
 The author is not affiliated or sponsored by Nmap or its creators.
+
+---
+
+# License GPL 3.0
+https://github.com/RezVIKONG/Nmap-FE/blob/8cb19d0acaa9e06603f6a887f5b13c19b71e8629/LICENSE
