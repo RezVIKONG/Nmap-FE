@@ -58,7 +58,7 @@ TCPvsInternet="-PS21,25,53,80,110,143,443,445,465,587,993,995,1194,1723,5060"
 TCPvsLAN="-PS21,22,23,25,53,80,110,135,139,143,161,162,389,443,445,465,587,993,995,1194,1433,1521,1723,3306,3389,4433,5040,5060,5355,5432,5985,6379,8080,27017"
 
 # TCP SYN (-PS) or ACK (-PA) for Host Discovery with Multiple Source Ports - sometimes Firewalls do not filter packets coming from specific Source Ports (Miscofiguration caused by some Admins)
-# Qualys ID 34000 - The host responded 4 times to 4 TCP SYN probes sent to destination port 25 using source port 80. However, it did not respond at all to 4 TCP SYN probes sent to the same destination port using a random source port.
+# Source Port Firewall Bypass - The host responded 4 times to 4 TCP SYN probes sent to Destination Port using Source Port 80. However, it did not respond at all to 4 TCP SYN probes sent to the same Destination Port using a Random Source Port.
 # NOTE: unfortunately the parameter --scanflags doesn't work with Ping Scan but only with Port Scans such as -sS -sA, so to do a Host Discovery using TCP SYN-ACK flags (both enabled) we should create a NSE script
 for Target in {1..${#Targets[@]}}; do
 
