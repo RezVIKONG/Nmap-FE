@@ -1,4 +1,4 @@
-# Nmap-FE | Nmap Fan Edition 'One-Click' CLI Frontend
+# Nmap-FE | Nmap Fan Edition 'Smart One-Click Scan' CLI Frontend
 Based on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nmap Public Source License' at https://svn.nmap.org/nmap/LICENSE
 
 ---
@@ -14,7 +14,7 @@ Features included:
 - Custom Source Port Scan
 - Results Reports in XML and RTF with Full Scan Details
 - SearchSploit NmapXML Ingestion - visit https://www.exploit-db.com/searchsploit
-- a lot of Colours and Music :D
+- a lot of Colours :D
 
 ---
 
