@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # Based on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nmap Public Source License' at https://svn.nmap.org/nmap/LICENSE
-# Nmap Fan Edition 'One-Click' cli frontend - Zsh Script created by Renzo Donegani aka RezVIKONG
+# Nmap Fan Edition 'Smart One-Click Scan' CLI Frontend - Zsh Script created by Renzo Donegani aka RezVIKONG - you can find me on LinkedIn at https://www.linkedin.com/in/renzodonegani
 
 ScriptVersion="0.9b"
 
@@ -35,7 +35,7 @@ echo "${TextFormatBlinking}${TextFormatBOLD}${TextColorBlue}"'  ________      __
 
 echo "${TextFormatBOLD}${TextColorBlue}\nBased on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nmap Public Source License' at https://svn.nmap.org/nmap/LICENSE ${TextEndFormat}\n"
 
-echo "${TextFormatBOLD}${TextColorGold}\nNmap Fan Edition 'One-Click' cli frontend - Zsh Script created by ${TextFormatUnderline}Renzo Donegani${TextEndFormat} ${TextFormatBOLD}${TextColorGold}aka RezVIKONG - you can find me on LinkedIn at https://www.linkedin.com/in/renzodonegani ${TextEndFormat}\n\n${TextColorGold}This script has been created to do a 'Smart One-Click' Scan of a typical Windows-Linux-MacOS Target in less than 45 Minutes.\n\nFeatures include:\n- Recursive Basic FW/IPS Evasion \n- Tuned Scan Timings\n- Smart Top TCP and UDP Destination Ports\n- Custom IP Payload Size\n- Not Intrusive NSE scan by default\n- Custom Source Port Scan\n- Results Reports in XML and RTF with Full Scan Details\n- SearchSploit NmapXML Ingestion - visit https://www.exploit-db.com/searchsploit \n- a lot of Colours and Music :D ${TextEndFormat}"
+echo "${TextFormatBOLD}${TextColorGold}\nNmap Fan Edition 'Smart One-Click Scan' CLI Frontend - Zsh Script created by ${TextFormatUnderline}Renzo Donegani${TextEndFormat} ${TextFormatBOLD}${TextColorGold}aka RezVIKONG - you can find me on LinkedIn at https://www.linkedin.com/in/renzodonegani ${TextEndFormat}\n\n${TextColorGold}This script has been created to perform a 'Smart One-Click Scan' of a typical Windows-Linux-MacOS Target in less than 45 Minutes.\n\nFeatures included:\n- Recursive Basic FW/IPS Evasion \n- Tuned Scan Timings\n- Smart Top TCP and UDP Destination Ports\n- Custom IP Payload Size\n- Not Intrusive NSE scan by default\n- Custom Source Port Scan\n- Results Reports in XML and RTF with Full Scan Details\n- SearchSploit NmapXML Ingestion - visit https://www.exploit-db.com/searchsploit \n- a lot of Colours :D ${TextEndFormat}"
 
 echo "${TextFormatItalics}\nScript Version $ScriptVersion ${TextEndFormat}\n"
 
