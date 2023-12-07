@@ -1,6 +1,8 @@
 # Nmap-FE | Nmap Fan Edition 'Smart One-Click Scan' CLI Frontend
 Based on Nmap - visit https://nmap.org/ - you can also find the terms of the 'Nmap Public Source License' at https://svn.nmap.org/nmap/LICENSE
 
+![WelcomeScreen](https://github.com/RezVIKONG/Nmap-FE/blob/main/Nmap-FE_WelcomeScreen.png)
+
 ---
 
 **This Zsh script has been created to perform a 'Smart One-Click Scan' of a typical Windows-Linux-MacOS Target in less than 45 Minutes, you just need to enter the Target IPv4/CIDR/FQDN and you are ready to go!**
